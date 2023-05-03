@@ -1,0 +1,32 @@
+F:\scss_gymmanagement\bin\Debug\scss_gymmanagement.exe.config
+F:\scss_gymmanagement\bin\Debug\scss_gymmanagement.exe
+F:\scss_gymmanagement\bin\Debug\scss_gymmanagement.pdb
+F:\scss_gymmanagement\obj\Debug\scss_gymmanagement.csproj.AssemblyReference.cache
+F:\scss_gymmanagement\obj\Debug\scss_gymmanagement.csproj.SuggestedBindingRedirects.cache
+F:\scss_gymmanagement\obj\Debug\scss_gymmanagement.Properties.Resources.resources
+F:\scss_gymmanagement\obj\Debug\scss_gymmanagement.csproj.GenerateResource.cache
+F:\scss_gymmanagement\obj\Debug\scss_gymmanagement.csproj.CoreCompileInputs.cache
+F:\scss_gymmanagement\obj\Debug\scss_gymmanagement.exe
+F:\scss_gymmanagement\obj\Debug\scss_gymmanagement.pdb
+F:\scss_gymmanagement\obj\Debug\scss_gymmanagement.Billing.resources
+F:\scss_gymmanagement\obj\Debug\scss_gymmanagement.Coachs.resources
+F:\scss_gymmanagement\obj\Debug\scss_gymmanagement.Members.resources
+F:\scss_gymmanagement\obj\Debug\scss_gymmanagement.Memberships.resources
+F:\scss_gymmanagement\obj\Debug\scss_gymmanagement.Receptionists.resources
+F:\scss_gymmanagement\obj\Debug\scss_gymmanagement.Login.resources
+C:\Users\Alexandra\OneDrive\Desktop\facultate\An 2\semestrul 2\Limbaje de programare II\proiect\scss_gymmanagement\bin\Debug\scss_gymmanagement.exe.config
+C:\Users\Alexandra\OneDrive\Desktop\facultate\An 2\semestrul 2\Limbaje de programare II\proiect\scss_gymmanagement\bin\Debug\scss_gymmanagement.exe
+C:\Users\Alexandra\OneDrive\Desktop\facultate\An 2\semestrul 2\Limbaje de programare II\proiect\scss_gymmanagement\bin\Debug\scss_gymmanagement.pdb
+C:\Users\Alexandra\OneDrive\Desktop\facultate\An 2\semestrul 2\Limbaje de programare II\proiect\scss_gymmanagement\obj\Debug\scss_gymmanagement.csproj.AssemblyReference.cache
+C:\Users\Alexandra\OneDrive\Desktop\facultate\An 2\semestrul 2\Limbaje de programare II\proiect\scss_gymmanagement\obj\Debug\scss_gymmanagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alexandra\OneDrive\Desktop\facultate\An 2\semestrul 2\Limbaje de programare II\proiect\scss_gymmanagement\obj\Debug\scss_gymmanagement.Billing.resources
+C:\Users\Alexandra\OneDrive\Desktop\facultate\An 2\semestrul 2\Limbaje de programare II\proiect\scss_gymmanagement\obj\Debug\scss_gymmanagement.Coachs.resources
+C:\Users\Alexandra\OneDrive\Desktop\facultate\An 2\semestrul 2\Limbaje de programare II\proiect\scss_gymmanagement\obj\Debug\scss_gymmanagement.Login.resources
+C:\Users\Alexandra\OneDrive\Desktop\facultate\An 2\semestrul 2\Limbaje de programare II\proiect\scss_gymmanagement\obj\Debug\scss_gymmanagement.Members.resources
+C:\Users\Alexandra\OneDrive\Desktop\facultate\An 2\semestrul 2\Limbaje de programare II\proiect\scss_gymmanagement\obj\Debug\scss_gymmanagement.Memberships.resources
+C:\Users\Alexandra\OneDrive\Desktop\facultate\An 2\semestrul 2\Limbaje de programare II\proiect\scss_gymmanagement\obj\Debug\scss_gymmanagement.Properties.Resources.resources
+C:\Users\Alexandra\OneDrive\Desktop\facultate\An 2\semestrul 2\Limbaje de programare II\proiect\scss_gymmanagement\obj\Debug\scss_gymmanagement.Receptionists.resources
+C:\Users\Alexandra\OneDrive\Desktop\facultate\An 2\semestrul 2\Limbaje de programare II\proiect\scss_gymmanagement\obj\Debug\scss_gymmanagement.csproj.GenerateResource.cache
+C:\Users\Alexandra\OneDrive\Desktop\facultate\An 2\semestrul 2\Limbaje de programare II\proiect\scss_gymmanagement\obj\Debug\scss_gymmanagement.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\OneDrive\Desktop\facultate\An 2\semestrul 2\Limbaje de programare II\proiect\scss_gymmanagement\obj\Debug\scss_gymmanagement.exe
+C:\Users\Alexandra\OneDrive\Desktop\facultate\An 2\semestrul 2\Limbaje de programare II\proiect\scss_gymmanagement\obj\Debug\scss_gymmanagement.pdb
